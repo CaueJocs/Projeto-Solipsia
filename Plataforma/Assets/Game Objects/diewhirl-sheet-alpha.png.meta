@@ -1,0 +1,965 @@
+fileFormatVersion: 2
+guid: a92a92cf9b7707049b7fa2c5024097ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8866772290682537038
+    second: diewhirl-sheet-alpha_0
+  - first:
+      213: 5770287897970529770
+    second: diewhirl-sheet-alpha_1
+  - first:
+      213: 727397907659266013
+    second: diewhirl-sheet-alpha_2
+  - first:
+      213: -4516504181329899543
+    second: diewhirl-sheet-alpha_3
+  - first:
+      213: 8834564633874849972
+    second: diewhirl-sheet-alpha_4
+  - first:
+      213: 8670799856832878361
+    second: diewhirl-sheet-alpha_5
+  - first:
+      213: 92360954243554044
+    second: diewhirl-sheet-alpha_6
+  - first:
+      213: -3719369031974615437
+    second: diewhirl-sheet-alpha_7
+  - first:
+      213: -700066014384017681
+    second: diewhirl-sheet-alpha_8
+  - first:
+      213: -7467116453566233560
+    second: diewhirl-sheet-alpha_9
+  - first:
+      213: -3960022253881937869
+    second: diewhirl-sheet-alpha_10
+  - first:
+      213: 1478169235643392199
+    second: diewhirl-sheet-alpha_11
+  - first:
+      213: 5105897995016434706
+    second: diewhirl-sheet-alpha_12
+  - first:
+      213: -2248062941003698813
+    second: diewhirl-sheet-alpha_13
+  - first:
+      213: 295454558552671175
+    second: diewhirl-sheet-alpha_14
+  - first:
+      213: -4992723795689431325
+    second: diewhirl-sheet-alpha_15
+  - first:
+      213: 7279916814027161035
+    second: diewhirl-sheet-alpha_16
+  - first:
+      213: 3244772225049384605
+    second: diewhirl-sheet-alpha_17
+  - first:
+      213: 3343081707210029474
+    second: diewhirl-sheet-alpha_18
+  - first:
+      213: -6055051966854771792
+    second: diewhirl-sheet-alpha_19
+  - first:
+      213: 2928503438226088968
+    second: diewhirl-sheet-alpha_20
+  - first:
+      213: 3590595475755028976
+    second: diewhirl-sheet-alpha_21
+  - first:
+      213: -2501188874118266305
+    second: diewhirl-sheet-alpha_22
+  - first:
+      213: -9020991472436928152
+    second: diewhirl-sheet-alpha_23
+  - first:
+      213: -7584555683114890516
+    second: diewhirl-sheet-alpha_24
+  - first:
+      213: 8601730010088472194
+    second: diewhirl-sheet-alpha_25
+  - first:
+      213: 7954378405589758826
+    second: diewhirl-sheet-alpha_26
+  - first:
+      213: 2061315776797811290
+    second: diewhirl-sheet-alpha_27
+  - first:
+      213: -2675164793189059926
+    second: diewhirl-sheet-alpha_28
+  - first:
+      213: -8072404202812744390
+    second: diewhirl-sheet-alpha_29
+  - first:
+      213: -551601316644096565
+    second: diewhirl-sheet-alpha_30
+  - first:
+      213: -1078313464683788557
+    second: diewhirl-sheet-alpha_31
+  - first:
+      213: 7564199835457679405
+    second: diewhirl-sheet-alpha_32
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb379d6495e2f480800000000000000
+      internalID: -8866772290682537038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 191
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5d44a554e241050800000000000000
+      internalID: 5770287897970529770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd794680b8c381a00800000000000000
+      internalID: 727397907659266013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 191
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efc34560672251c0800000000000000
+      internalID: -4516504181329899543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 191
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0e65b1abdaa9a70800000000000000
+      internalID: 8834564633874849972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 193
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9171809a78ed45870800000000000000
+      internalID: 8670799856832878361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 193
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa9dcc6cc1284100800000000000000
+      internalID: 92360954243554044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376809c4295226cc0800000000000000
+      internalID: -3719369031974615437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 143
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee21554badd846f0800000000000000
+      internalID: -700066014384017681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 143
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824c5b0e5297f5890800000000000000
+      internalID: -7467116453566233560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330b9bebdbc2b09c0800000000000000
+      internalID: -3960022253881937869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 143
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c06f609613838410800000000000000
+      internalID: 1478169235643392199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 145
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214755c9c2bcbd640800000000000000
+      internalID: 5105897995016434706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 145
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d21c87aa64dc0e0800000000000000
+      internalID: -2248062941003698813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c34dc90b5aa91400800000000000000
+      internalID: 295454558552671175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 99
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee9a40192846bab0800000000000000
+      internalID: -4992723795689431325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd7b7e85c5770560800000000000000
+      internalID: 7279916814027161035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 101
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d965f1ba52fb70d20800000000000000
+      internalID: 3244772225049384605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_18
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 101
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a93c5da913056e20800000000000000
+      internalID: 3343081707210029474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_19
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 103
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb4713315228fba0800000000000000
+      internalID: -6055051966854771792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_20
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 103
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804e9f67c5224a820800000000000000
+      internalID: 2928503438226088968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1d088bf8b54d130800000000000000
+      internalID: 3590595475755028976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_22
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 57
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32850a88fdf94dd0800000000000000
+      internalID: -2501188874118266305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 59
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861a1931d000fc280800000000000000
+      internalID: -9020991472436928152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_24
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 59
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea44c87ace3eb690800000000000000
+      internalID: -7584555683114890516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 61
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ef329cedb7f5770800000000000000
+      internalID: 8601730010088472194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_26
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 61
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63373a0401a36e60800000000000000
+      internalID: 7954378405589758826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_27
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 62
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5221f517c34b9c10800000000000000
+      internalID: 2061315776797811290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2b5525bc7efdad0800000000000000
+      internalID: -2675164793189059926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_29
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3dd9ff952f09ff80800000000000000
+      internalID: -8072404202812744390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_30
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc57ac766815858f0800000000000000
+      internalID: -551601316644096565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f68005fd9f0901f0800000000000000
+      internalID: -1078313464683788557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: diewhirl-sheet-alpha_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 145
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20f58a6caf69f860800000000000000
+      internalID: 7564199835457679405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      diewhirl-sheet-alpha_0: -8866772290682537038
+      diewhirl-sheet-alpha_1: 5770287897970529770
+      diewhirl-sheet-alpha_10: -3960022253881937869
+      diewhirl-sheet-alpha_11: 1478169235643392199
+      diewhirl-sheet-alpha_12: 5105897995016434706
+      diewhirl-sheet-alpha_13: -2248062941003698813
+      diewhirl-sheet-alpha_14: 295454558552671175
+      diewhirl-sheet-alpha_15: -4992723795689431325
+      diewhirl-sheet-alpha_16: 7279916814027161035
+      diewhirl-sheet-alpha_17: 3244772225049384605
+      diewhirl-sheet-alpha_18: 3343081707210029474
+      diewhirl-sheet-alpha_19: -6055051966854771792
+      diewhirl-sheet-alpha_2: 727397907659266013
+      diewhirl-sheet-alpha_20: 2928503438226088968
+      diewhirl-sheet-alpha_21: 3590595475755028976
+      diewhirl-sheet-alpha_22: -2501188874118266305
+      diewhirl-sheet-alpha_23: -9020991472436928152
+      diewhirl-sheet-alpha_24: -7584555683114890516
+      diewhirl-sheet-alpha_25: 8601730010088472194
+      diewhirl-sheet-alpha_26: 7954378405589758826
+      diewhirl-sheet-alpha_27: 2061315776797811290
+      diewhirl-sheet-alpha_28: -2675164793189059926
+      diewhirl-sheet-alpha_29: -8072404202812744390
+      diewhirl-sheet-alpha_3: -4516504181329899543
+      diewhirl-sheet-alpha_30: -551601316644096565
+      diewhirl-sheet-alpha_31: -1078313464683788557
+      diewhirl-sheet-alpha_32: 7564199835457679405
+      diewhirl-sheet-alpha_4: 8834564633874849972
+      diewhirl-sheet-alpha_5: 8670799856832878361
+      diewhirl-sheet-alpha_6: 92360954243554044
+      diewhirl-sheet-alpha_7: -3719369031974615437
+      diewhirl-sheet-alpha_8: -700066014384017681
+      diewhirl-sheet-alpha_9: -7467116453566233560
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
